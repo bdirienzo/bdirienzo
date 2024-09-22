@@ -1,4 +1,4 @@
-## Hi! I´m Bernardo 
+## Hi! I´m Bernardo 👋🏼
 
 ### You can find me... 🌎
 - Studying Data Science at [Universidad Austral](https://www.austral.edu.ar) 📖
