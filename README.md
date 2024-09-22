@@ -1,3 +1,5 @@
+![BERNARDO DI RIENZO](https://github.com/user-attachments/assets/72e00857-043e-4306-be35-7ac02d8c1fae)
+
 ## Hi! I´m Bernardo 👋🏼
 
 ### You can find me... 🌎
