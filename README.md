@@ -12,7 +12,7 @@
 Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
 
 <details>
-  <summary>Digital abilities</summary>
+  <summary>Digital abilities 🧑🏽‍💻</summary>
   
   - Canva
   - Adobe Photoshop
@@ -25,7 +25,7 @@ Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
 </details>
 
 <details>
-  <summary>Programming languages</summary>
+  <summary>Programming languages 🧮</summary>
   
   - R
   - Python
@@ -33,10 +33,10 @@ Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
 </details>
 
 <details>
-  <summary>Languages I speak</summary>
+  <summary>Languages I speak 🌎</summary>
   
-  - Spanish (Native)
-  - English (C1)
-  - Portuguese (Basic)
+  - Spanish (Native) 🇦🇷
+  - English (C1) 🇬🇧
+  - Portuguese (Basic) 🇵🇹
   
 </details>
