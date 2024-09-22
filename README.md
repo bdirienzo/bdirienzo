@@ -12,22 +12,31 @@
 Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
 
 <details>
-  <summary>Digital abilities</summary
-  *Canva
-  *Adobe Photoshop
-  *Goole Worskspace
-  *Google Looker Studio
-  *Google Admin Console
-  *Microsoft 365
-  *Salesforce
+  <summary>Digital abilities</summary>
   
-<details>
-  <summary>Programming languages</summary
-  *R
-  *Python
+  - Canva
+  - Adobe Photoshop
+  - Google Workspace
+  - Google Looker Studio
+  - Google Admin Console
+  - Microsoft 365
+  - Salesforce
   
+</details>
+
 <details>
-  <summary>Languages I speak</summary
-  * Spanish (Native)
-  * English (C1)
-  * Portuguese (Basic)
+  <summary>Programming languages</summary>
+  
+  - R
+  - Python
+  
+</details>
+
+<details>
+  <summary>Languages I speak</summary>
+  
+  - Spanish (Native)
+  - English (C1)
+  - Portuguese (Basic)
+  
+</details>
