@@ -10,3 +10,24 @@
 - Author of [Inteligencia Artificial: La bisagra en la historia de la humanidad](https://grupojovenfl.wordpress.com/2023/05/14/inteligencia-artificial-la-bisagra-en-la-historia-de-la-humanidad/) 🖋️
 
 Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
+
+<details>
+  <summary>Digital abilities</summary
+  * Canva
+  * Adobe Photoshop
+  * Goole Worskspace
+  * Google Looker Studio
+  * Google Admin Console
+  * Microsoft 365
+  * Salesforce
+  
+<details>
+  <summary>Programming languages</summary
+  * R
+  * Python
+  
+<details>
+  <summary>Languages I speak</summary
+  * Spanish (Native)
+  * English (C1)
+  * Portuguese (Basic)
