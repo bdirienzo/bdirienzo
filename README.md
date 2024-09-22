@@ -13,18 +13,18 @@ Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
 
 <details>
   <summary>Digital abilities</summary
-  * Canva
-  * Adobe Photoshop
-  * Goole Worskspace
-  * Google Looker Studio
-  * Google Admin Console
-  * Microsoft 365
-  * Salesforce
+  *Canva
+  *Adobe Photoshop
+  *Goole Worskspace
+  *Google Looker Studio
+  *Google Admin Console
+  *Microsoft 365
+  *Salesforce
   
 <details>
   <summary>Programming languages</summary
-  * R
-  * Python
+  *R
+  *Python
   
 <details>
   <summary>Languages I speak</summary
