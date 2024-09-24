@@ -29,6 +29,7 @@ Let´s connect on [LinkedIn](www.linkedin.com/in/bernardodirienzo)
   
   - R
   - Python
+  - JavaScript
   
 </details>
 
